@@ -1,0 +1,14 @@
+[
+    {
+        "Nama barang": "Minyak goreng",
+        "Stok": 20
+    },
+    {
+        "Nama barang": "Ayam",
+        "Stok": "12"
+    },
+    {
+        "Nama barang": "Kurma",
+        "Stok": "25"
+    }
+]
